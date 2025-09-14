@@ -1,7 +1,6 @@
-- 👋 Hi, I’m shravan agrahari
-- 👀 I’m interested in Full stack developer
+- 👋 Hi, I’m shravan agrahari Programmer
+- 👀 I’m interested in Programming Full stack developer , Web Development 
 - 🌱 I’m currently learning UG and python
-- 💞️ I’m looking to collaborate on microsoft
 - 📫 How to reach me agraharijokhanprasad@gmail.com
 - 😄 Pronouns: Moon
 - ⚡ Fun fact: Am All Rounder of Free Fire player
